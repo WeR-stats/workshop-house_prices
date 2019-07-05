@@ -1,0 +1,52 @@
+var_id,name,description,domain,subdomain
+X101,AveragePrice,Average Price,Global,
+X102,Index,Index,Global,
+X103,IndexSA,Index SA,Global,
+X104,1m%Change,1 month pct Change,Global,
+X105,12m%Change,1 year pct Change,Global,
+X106,AveragePriceSA,Average Price SA,Global,
+X107,SalesVolume,Sales Volume,Global,
+X201,DetachedPrice,Average Price,Property type,Detached
+X202,DetachedIndex,Index,Property type,Detached
+X203,Detached1m%Change,1 month pct Change,Property type,Detached
+X204,Detached12m%Change,1 year pct Change,Property type,Detached
+X211,SemiDetachedPrice,Average Price,Property type,Semi Detached
+X212,SemiDetachedIndex,Index,Property type,Semi Detached
+X213,SemiDetached1m%Change,1 month pct Change,Property type,Semi Detached
+X214,SemiDetached12m%Change,1 year pct Change,Property type,Semi Detached
+X221,TerracedPrice,Average Price,Property type,Terraced
+X222,TerracedIndex,Index,Property type,Terraced
+X223,Terraced1m%Change,1 month pct Change,Property type,Terraced
+X224,Terraced12m%Change,1 year pct Change,Property type,Terraced
+X231,FlatPrice,Average Price,Property type,Flat
+X232,FlatIndex,Index,Property type,Flat
+X233,Flat1m%Change,1 month pct Change,Property type,Flat
+X234,Flat12m%Change,1 year pct Change,Property type,Flat
+X301,CashPrice,Average Price,Funding Status,Cash
+X302,CashIndex,Index,Funding Status,Cash
+X303,Cash1m%Change,1 month pct Change,Funding Status,Cash
+X304,Cash12m%Change,1 year pct Change,Funding Status,Cash
+X305,CashSalesVolume,Sales Volume,Funding Status,Cash
+X311,MortgagePrice,Average Price,Funding Status,Mortgage
+X312,MortgageIndex,Index,Funding Status,Mortgage
+X313,Mortgage1m%Change,1 month pct Change,Funding Status,Mortgage
+X314,Mortgage12m%Change,1 year pct Change,Funding Status,Mortgage
+X315,MortgageSalesVolume,Sales Volume,Funding Status,Mortgage
+X401,FTBPrice,Average Price,Buyer's Status,First Time Buyer
+X402,FTBIndex,Index,Buyer's Status,First Time Buyer
+X403,FTB1m%Change,1 month pct Change,Buyer's Status,First Time Buyer
+X404,FTB12m%Change,1 year pct Change,Buyer's Status,First Time Buyer
+X411,FOOPrice,Average Price,Buyer's Status,Former Owner Occupier
+X412,FOOIndex,Index,Buyer's Status,Former Owner Occupier
+X413,FOO1m%Change,1 month pct Change,Buyer's Status,Former Owner Occupier
+X414,FOO12m%Change,1 year pct Change,Buyer's Status,Former Owner Occupier
+X501,NewPrice,Average Price,Property Status,New Build
+X502,NewIndex,Index,Property Status,New Build
+X503,New1m%Change,1 month pct Change,Property Status,New Build
+X504,New12m%Change,1 year pct Change,Property Status,New Build
+X505,NewSalesVolume,Sales Volume,Property Status,New Build
+X511,OldPrice,Average Price,Property Status,Existing Resold
+X512,OldIndex,Index,Property Status,Existing Resold
+X513,Old1m%Change,1 month pct Change,Property Status,Existing Resold
+X514,Old12m%Change,1 year pct Change,Property Status,Existing Resold
+X515,OldSalesVolume,Sales Volume,Property Status,Existing Resold
