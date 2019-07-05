@@ -1,1 +1,1 @@
-# workshop-house_prices
+# A Workshop to analyze UK House Prices
