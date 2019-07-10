@@ -24,5 +24,5 @@ Contains OS data © Crown copyright and database right 2019
 Contains Royal Mail data © Royal Mail copyright and database right 2019
 Contains National Statistics data © Crown copyright and database right 2019
 
-This data is licensed under the Open Government Licence v3.0.
+These data are licensed under the Open Government Licence v3.0
 ```
