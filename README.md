@@ -14,8 +14,9 @@ https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 ### INSPIRE Polygons
 https://www.gov.uk/guidance/inspire-index-polygons-spatial-data
 
-### ONS Statistical bulletins
-https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/april2019
+### ONS
+ - Statistical bulletins: https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/april2019
+ - All data related to housing: https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datalist
 
 ### Attribution Statements
 ```
