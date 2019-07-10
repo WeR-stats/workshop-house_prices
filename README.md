@@ -17,9 +17,11 @@ https://www.gov.uk/guidance/inspire-index-polygons-spatial-data
 ### ONS Statistical bulletins
 https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/april2019
 
-### Attribution Statement
+### Attribution Statements
 ```
-Contains HM Land Registry data 
-© Crown copyright and database right 2019. 
+Contains HM Land Registry data © Crown copyright and database right 2019. 
+Contains OS data © Crown copyright and database right 2019
+Contains Royal Mail data © Royal Mail copyright and database right 2019
+Contains National Statistics data © Crown copyright and database right 2019
 This data is licensed under the Open Government Licence v3.0.
 ```
