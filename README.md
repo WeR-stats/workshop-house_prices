@@ -3,8 +3,8 @@
 ### Main Gov Web Page
 https://www.gov.uk/government/organisations/land-registry
 
-### Transactions (Price Paid)
- - data: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
+### Transactions data (Price Paid)
+https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
 
 ### KPIs (UKHPI - UK House Price Index)
  - data: https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads
@@ -17,8 +17,7 @@ https://www.gov.uk/guidance/inspire-index-polygons-spatial-data
 ### ONS Statistical bulletins
 https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/housepriceindex/april2019
 
-### Attribution Statement:
-
+### Attribution Statement
 ```
 Contains HM Land Registry data 
 © Crown copyright and database right 2019. 
